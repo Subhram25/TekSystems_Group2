@@ -3,7 +3,7 @@ Detection of Malicious URL's .
 
 The purpose of this project is to detect whether the site is malicious or not by using Machine Learning Algorithms and Technology.
 
-# Pre_Requistes 
+# Pre_Requisite
 
 1. Anaconda Should be installed else download it from https://www.anaconda.com/distribution/ 
 2. Python Version should be 3.7.0 or above.
